@@ -30,8 +30,11 @@ Varibles:
 ---
 Functions:
 1. name: sell_tickets()
+
    description: will allow the user to buy up to 4 tickets and no less than one ticket. then this function will subtract the total number of tickets bought from the total, and display the remaining number of tickets.
+
    parameters: none
+
    returns: none
 
 ---

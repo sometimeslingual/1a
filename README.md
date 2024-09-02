@@ -3,6 +3,7 @@ Technical Design Document
 ---
 
 Jacob Hawkins
+
 9/1/2024
 
 ---
@@ -42,5 +43,6 @@ link: https://github.com/sometimeslingual/1a
 
 ---
 Jacob Hawkins
+
 9/1/2024
 
